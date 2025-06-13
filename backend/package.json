@@ -1,0 +1,31 @@
+{
+  "name": "ab_media_backend",
+  "version": "1.0.0",
+  "description": "Backend service for the ab media intern assignment ",
+  "keywords": [
+    "Backend",
+    "express.js",
+    "npm",
+    "node.js"
+  ],
+  "homepage": "https://github.com/Punit9464/AbMedia#readme",
+  "bugs": {
+    "url": "https://github.com/Punit9464/AbMedia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punit9464/AbMedia.git"
+  },
+  "license": "MIT",
+  "author": "Punit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.2"
+  }
+}
